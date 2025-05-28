@@ -1,4 +1,4 @@
-# Hi there, I'm Daryl Fernandes 👋
+# Hi there, I'm Daryl Cletus Fernandes 👋
 
 <div align="center">
   
@@ -12,7 +12,6 @@
 
 I'm a **Full-Stack Software Engineer** with a passion for building scalable applications and AI-powered solutions. Currently pursuing my Master's in Software Engineering Systems at Northeastern University, I specialize in creating innovative solutions that bridge the gap between complex technical challenges and real-world applications.
 
-- 🔭 Currently working on AI-powered automation systems and full-stack applications
 - 🌱 Learning advanced cloud architectures and exploring the latest in Generative AI
 - 👯 Looking to collaborate on open-source projects involving AI/ML and full-stack development
 - 💡 Interested in healthcare technology, AI documentation systems, and workflow automation
