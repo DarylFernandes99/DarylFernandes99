@@ -134,7 +134,6 @@ Xavier Institute of Engineering, Mumbai *(Aug 2016 - May 2021)*
 ## 🌟 Key Achievements
 
 - 🏆 Published 2 research papers on AI/ML applications in IRJET
-- ⭐ Contributed to open-source projects with 50+ GitHub stars
 - 🚀 Reduced application processing time by 90% through AI automation
 - 📈 Achieved 99.9% uptime for production microservices
 - 🎯 Improved system accuracy by 85% with hybrid AI approach
