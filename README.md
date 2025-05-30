@@ -73,22 +73,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable appl
   </a>
 </p>
 
-<!-- REPO-LIST:START -->
-<div align="center">
-  <a href="https://github.com/DarylFernandes99/Low-light-Image-Enhancement-using-GAN">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Low-light-Image-Enhancement-using-GAN&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
-  </a>
-  <a href="https://github.com/DarylFernandes99/Cloud-Native-API-Deployment-with-CI-CD-on-GCP">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Cloud-Native-API-Deployment-with-CI-CD-on-GCP&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
-  </a>
-  <a href="https://github.com/DarylFernandes99/Shopping-Website">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Shopping-Website&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
-  </a>
-  <a href="https://github.com/DarylFernandes99/ProjectRepo">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=ProjectRepo&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
-  </a>
-</div>
-<!-- REPO-LIST:END -->
+<!-- REPO-LIST:START --><a href="https://github.com/"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=DarylFernandes99 deleted branch achievement-update at DarylFernandes99/DarylFernandes99&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" /></a><a href="https://github.com/DarylFernandes99/DarylFernandes99/compare/1f4973c3f0...754de53e3a"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=DarylFernandes99 pushed to main in DarylFernandes99/DarylFernandes99&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" /></a><a href="https://github.com/DarylFernandes99/DarylFernandes99/pull/3"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=DarylFernandes99 merged a pull request in DarylFernandes99/DarylFernandes99&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" /></a><a href="https://github.com/DarylFernandes99/DarylFernandes99/pull/3"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=DarylFernandes99 opened a pull request in DarylFernandes99/DarylFernandes99&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" /></a><a href="https://github.com/DarylFernandes99/DarylFernandes99/compare/achievement-update"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=DarylFernandes99 created a branch achievement-update in DarylFernandes99/DarylFernandes99&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" /></a><a href="https://github.com/"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=DarylFernandes99 deleted branch readme-fix at DarylFernandes99/DarylFernandes99&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" /></a><!-- REPO-LIST:END -->
 
 <p align="center">
   <a href="https://github.com/DarylFernandes99?tab=repositories&sort=stargazers">
