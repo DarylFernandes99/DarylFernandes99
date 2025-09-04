@@ -84,8 +84,8 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable appl
   <a href="https://github.com/DarylFernandes99/Cloud-Native-API-Deployment-with-CI-CD-on-GCP">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Cloud-Native-API-Deployment-with-CI-CD-on-GCP&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
   </a>
-  <a href="https://github.com/DarylFernandes99/Optical-Character-Recognition">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Optical-Character-Recognition&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
+  <a href="https://github.com/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
   </a>
 </div>
 <!-- REPO-LIST:END -->
