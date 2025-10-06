@@ -99,7 +99,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable appl
 ## 💼 Professional Experience
 
 ### Software Engineer @ CareerGPT
-*Dec 2024 - April 2025*
+*Dec 2024 - May 2025*
 - Built AI-powered automation systems with multistep workflows
 - Developed full-stack features with React.js and FastAPI
 - Improved system performance by 40% through optimization
