@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Software Engineer** with a passion for building scalable applications and AI-powered solutions. Currently pursuing my Master's in Software Engineering Systems at Northeastern University, I specialize in creating innovative solutions that bridge the gap between complex technical challenges and real-world applications.
+I'm a **Software Engineer** specializing in **AI & Full-Stack Development**, currently pursuing my Master's at **Northeastern University**. With a background in building autonomous AI agents, migrating legacy backends to **FastAPI**, and architecting scalable cloud solutions on **GCP**, I bridge the gap between complex research and production-grade software.
 
-- 🌱 Learning advanced cloud architectures and exploring the latest in Generative AI
-- 👯 Looking to collaborate on open-source projects involving AI/ML and full-stack development
-- 💡 Interested in healthcare technology, AI documentation systems, and workflow automation
-- ⚡ Fun fact: I've built systems that have processed 800K+ samples with 94.8% accuracy!
+- 🔭 **Current Focus:** Building **Multi-Agent Systems** and **RAG Pipelines** using Google Gemini & LangChain
+- 🌱 **Learning:** Advanced **System Design**, **Vector Search Optimization**, and **Distributed Computing**
+- 👯 **Collaboration:** Open to opportunities in **AI Engineering**, **Backend Systems**, and **Cloud-Native Development**
+- ⚡ **Fun Fact:** I once optimized a legacy API to achieve **sub-50ms latency** using Redis caching!
 
 ## 💻 Tech Stack
 
@@ -76,16 +76,16 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable appl
 <!-- REPO-LIST:START -->
 <div align="center">
   <a href="https://github.com/DarylFernandes99/Low-light-Image-Enhancement-using-GAN">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Low-light-Image-Enhancement-using-GAN&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Low-light-Image-Enhancement-using-GAN/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Floating Cogs" />
   </a>
   <a href="https://github.com/DarylFernandes99/Shopping-Website">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Shopping-Website&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Shopping-Website/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Formal Invitation" />
   </a>
   <a href="https://github.com/DarylFernandes99/Cloud-Native-API-Deployment-with-CI-CD-on-GCP">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Cloud-Native-API-Deployment-with-CI-CD-on-GCP&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Cloud-Native-API-Deployment-with-CI-CD-on-GCP/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Brick Wall" />
   </a>
   <a href="https://github.com/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo=Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Diagonal Stripes" />
   </a>
 </div>
 <!-- REPO-LIST:END -->
@@ -98,45 +98,54 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable appl
 
 ## 💼 Professional Experience
 
-### Software Engineer @ CareerGPT
-*Dec 2024 - May 2025*
-- Built AI-powered automation systems with multistep workflows
-- Developed full-stack features with React.js and FastAPI
-- Improved system performance by 40% through optimization
-- Worked in fast-paced startup environment with rapid iteration
+### Software Engineer Co-op @ CareerGPT
+*Boston, MA | Dec 2024 – May 2025*
+- **Backend Migration:** Led the strategic migration of the legacy backend from **Node.js** to **Python (FastAPI)**, enabling native support for AI/ML libraries.
+- **AI Agents:** Designed and deployed the "Career Coach" agent using **Google Gemini** and developed an autonomous **Job Application Agent** using **Playwright**.
+- **High-Performance API:** Engineered a robust, asynchronous REST API using **FastAPI** and **Redis** caching, achieving sub-50ms latency.
+- **Cloud Infrastructure:** Architected a serverless deployment on **GCP** using **Cloud Run**, **Pub/Sub**, and **Terraform** for Infrastructure as Code.
+- **QA Automation:** Developed comprehensive E2E test suites using **WebdriverIO** and **BrowserStack**, and implemented automated AI validation scripts.
 
-### Software Engineer @ Infinite Analytics
-*Aug 2021 - July 2023*
-- Developed enterprise applications serving 5000+ users
-- Built RESTful APIs reducing response times by 30%
-- Created interactive data visualization dashboards
-- Optimized database performance by 45%
+### Software Engineer @ Sherlock AI
+*Remote, Mumbai | Aug 2021 – July 2023*
+- **Frontend Architecture:** Transitioned the flagship SaaS platform to a modern **React.js** architecture with **Material UI**, implementing a unified design system.
+- **Geospatial Visualization:** Integrated **Kepler.gl** to visualize complex mobility datasets, enabling polygon-based mapping and demographic analysis.
+- **Backend Engineering:** Contributed to the **FastAPI** backend, optimizing **SQL** schemas for heavy read/write operations and advanced search capabilities.
+- **Test Automation:** Developed **Selenium** scripts to automate complex analytics reports, reducing manual testing time by over **40%**.
+- **Data Integration:** Integrated **Facebook Marketing APIs** and **Mapbox** services to enhance platform capabilities.
+
+### Web Developer Intern @ CMP Infotech
+*Remote, Mumbai | Dec 2019*
+- **E-Commerce Development:** Delivered a complete e-commerce solution using **ASP.NET (C#)** and **SQL Server**, handling the full lifecycle from schema design to UI.
+- **Session Management:** Architected a custom Session-based Shopping Cart and dual-portal authentication system for Customers and Sellers.
+- **Data Binding:** Utilized **DataList** and **GridView** controls to render dynamic product catalogs and efficiently bind UI components to SQL data sources.
 
 ## 🎓 Education
 
 **Master of Science in Software Engineering Systems**  
-Northeastern University, Boston *(Sept 2023 - Expected Dec 2025)*  
-*Relevant Coursework: Generative AI, Data Science, Cloud Computing, Big Data Applications*
+Northeastern University, Boston *(Sept 2023 - Dec 2025)*  
+*Relevant Coursework: Object-Oriented Design, Web Design/UX, Cloud Computing, Big-Data Applications, Generative AI, Parallel ML*
 
-**Bachelor of Engineering in Computer Engineering**  
-Xavier Institute of Engineering, Mumbai *(Aug 2016 - May 2021)*
+**Bachelor of Engineering in Computer Science**  
+Xavier Institute of Technology, Mumbai *(Aug 2016 - May 2021)*  
+*Relevant Coursework: Algorithms, Machine Learning, Distributed Systems, Databases*
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarylFernandes99&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463)
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarylFernandes99&theme=ayu_mirage)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarylFernandes99&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463)
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarylFernandes99&theme=ayu_mirage)
   
 </div>
 
 ## 🌟 Key Achievements
 
-- 🏆 Published 2 research papers on AI/ML applications in IRJET
-- 🚀 Reduced application processing time by 90% through AI automation
-- 📈 Achieved 99.9% uptime for production microservices
-- 🎯 Improved system accuracy by 85% with hybrid AI approach
+- 🏆 **Research Impact:** Published findings on Low-Light Image Enhancement in the **IRJET** journal.
+- 🚀 **Automation:** Reduced manual testing time by over **40%** at Sherlock AI through Selenium automation.
+- ⚡ **Performance:** Achieved sub-50ms latency for critical endpoints at CareerGPT using **Redis** caching.
+- 🎯 **Accuracy:** Trained an OCR model on EMNIST dataset with over **95%** accuracy and competitive BLEU scores for Image Captioning.
 
 ## 📫 Let's Connect!
 
