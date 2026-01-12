@@ -1,18 +1,25 @@
 import requests
 import re
+import random
 
 # Fetch repos
 response = requests.get('https://api.github.com/users/DarylFernandes99/repos')
 repos = response.json()
 
+max_repos = 4
+
 # Sort by stars + forks
-top_repos = sorted(repos, key=lambda x: x['stargazers_count'] + x['forks_count'], reverse=True)[:4]
+top_repos = sorted(repos, key=lambda x: x['stargazers_count'] + x['forks_count'], reverse=True)[:max_repos]
+
+# Get random backdrop
+backdrops = ['Signal', 'Charlie Brown', 'Formal Invitation', 'Plus', 'Circuit Board', 'Overlapping Hexagons', 'Brick Wall', 'Floating Cogs', 'Diagonal Stripes']
+random_backdrops = random.sample(range(1, len(backdrops)), max_repos)
 
 # Generate HTML
 repo_html = '<div align="center">\n'
-for repo in top_repos:
+for repo, backdrop in zip(top_repos, random_backdrops):
     repo_html += f'''  <a href="{repo['html_url']}">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DarylFernandes99&repo={repo['name']}&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=40c463" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/{repo['name']}/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern={backdrops[backdrop]}" />
   </a>\n'''
 repo_html += '</div>'
 
