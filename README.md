@@ -76,16 +76,16 @@ I'm a **Software Engineer** specializing in **AI & Full-Stack Development**, cur
 <!-- REPO-LIST:START -->
 <div align="center">
   <a href="https://github.com/DarylFernandes99/Low-light-Image-Enhancement-using-GAN">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Low-light-Image-Enhancement-using-GAN/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Plus" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Low-light-Image-Enhancement-using-GAN/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Overlapping Hexagons" />
   </a>
   <a href="https://github.com/DarylFernandes99/Shopping-Website">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Shopping-Website/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Diagonal Stripes" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Shopping-Website/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Charlie Brown" />
   </a>
   <a href="https://github.com/DarylFernandes99/Cloud-Native-API-Deployment-with-CI-CD-on-GCP">
     <img width="400" src="https://socialify.git.ci/DarylFernandes99/Cloud-Native-API-Deployment-with-CI-CD-on-GCP/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Formal Invitation" />
   </a>
   <a href="https://github.com/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Brick Wall" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Plus" />
   </a>
 </div>
 <!-- REPO-LIST:END -->
