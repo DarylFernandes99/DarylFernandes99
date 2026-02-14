@@ -76,16 +76,16 @@ I'm a **Software Engineer** specializing in **AI & Full-Stack Development**, cur
 <!-- REPO-LIST:START -->
 <div align="center">
   <a href="https://github.com/DarylFernandes99/Low-light-Image-Enhancement-using-GAN">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Low-light-Image-Enhancement-using-GAN/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Formal Invitation" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Low-light-Image-Enhancement-using-GAN/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Charlie Brown" />
   </a>
   <a href="https://github.com/DarylFernandes99/Shopping-Website">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Shopping-Website/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Floating Cogs" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Shopping-Website/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Brick Wall" />
   </a>
   <a href="https://github.com/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Brick Wall" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Diagonal Stripes" />
   </a>
   <a href="https://github.com/DarylFernandes99/AI-Powered-Question-Answering-with-LangChain-and-Google-Gemini">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/AI-Powered-Question-Answering-with-LangChain-and-Google-Gemini/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Diagonal Stripes" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/AI-Powered-Question-Answering-with-LangChain-and-Google-Gemini/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Overlapping Hexagons" />
   </a>
 </div>
 <!-- REPO-LIST:END -->
