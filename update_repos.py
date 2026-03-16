@@ -12,7 +12,7 @@ max_repos = 4
 top_repos = sorted(repos, key=lambda x: x['stargazers_count'] + x['forks_count'], reverse=True)[:max_repos]
 
 # Get random backdrop
-backdrops = ['Signal', 'Charlie Brown', 'Formal Invitation', 'Plus', 'Circuit Board', 'Overlapping Hexagons', 'Brick Wall', 'Floating Cogs', 'Diagonal Stripes']
+backdrops = ['Signal', 'Charlie%20Brown', 'Formal%20Invitation', 'Plus', 'Circuit%20Board', 'Overlapping%20Hexagons', 'Brick%20Wall', 'Floating%20Cogs', 'Diagonal%20Stripes']
 random_backdrops = random.sample(range(1, len(backdrops)), max_repos)
 
 # Generate HTML
