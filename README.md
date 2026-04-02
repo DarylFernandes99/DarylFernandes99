@@ -82,10 +82,10 @@ I'm a **Software Engineer** specializing in **AI & Full-Stack Development**, cur
     <img width="400" src="https://socialify.git.ci/DarylFernandes99/Shopping-Website/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Formal%20Invitation" />
   </a>
   <a href="https://github.com/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Overlapping%20Hexagons" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Brick%20Wall" />
   </a>
   <a href="https://github.com/DarylFernandes99/AI-Powered-Question-Answering-with-LangChain-and-Google-Gemini">
-    <img width="400" src="https://socialify.git.ci/DarylFernandes99/AI-Powered-Question-Answering-with-LangChain-and-Google-Gemini/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Diagonal%20Stripes" />
+    <img width="400" src="https://socialify.git.ci/DarylFernandes99/AI-Powered-Question-Answering-with-LangChain-and-Google-Gemini/image?font=JetBrains%20Mono&forks=1&language=1&name=1&stargazers=1&theme=Dark&pattern=Overlapping%20Hexagons" />
   </a>
 </div>
 <!-- REPO-LIST:END -->
